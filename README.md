@@ -62,7 +62,8 @@ The first screen of the app, here a student can:
 
 - Swap between boards using the `yellow` vowel (nikkud) keys.
 - Type using the `white` and `green` letter keys from the selected board, there will be auditory feedback for the user to make sure they typed the letter they wanted.
-- Add space (`רווח`), delete the last letter (`מחק תו`) or word (`מחק מילה`).
+- Add space (`רווח`).
+- Delete the last letter (`מחק תו`) or word (`מחק מילה`).
 - Tap the `speaker` icon at the top left corner to hear what was typed into the text line.
 - Go to the secondary "settings" screen using the `blue` gears icon.
 
@@ -125,7 +126,8 @@ The app calculates typos (compared to what's written in the image's description)
 
 <img align="right" style="width:300px; height:auto;" src="https://github.com/user-attachments/assets/b4bba38b-faec-473a-9ae1-aeeac49d182d">
 
-The teacher's main screen, accessible via loggin in as a teacher. The screen has a few options:
+The teacher's main screen, accessible via loggin in as a teacher.<br>
+The screen has a few options:
 
 - Go to the secondary screen using the `blue` arrow icon.
 - Navigating to the statistics screen (`סטטיסטיקת תלמידים`).
@@ -225,7 +227,7 @@ Scroll to view activity per date.
 4. Add new student users and new images as necessary.
 
 > [!TIP]
-> If during teaching you'd like to be able to type a letter without it making a sound just mute the iPad output.
+> If during teaching you'd like to be able to type a letter without it making a sound you can mute the iPad output.
 
 > [!NOTE]
 > The app is fully local, it uses no external storage and doesn't need an internet connection.
